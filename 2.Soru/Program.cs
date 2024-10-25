@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ Kullanıcıdan pozitif tam sayılar alarak, bu sayıların ortalamasını ve medyanını hesaplayan
+bir program yazın. Kullanıcı 0 girene kadar sayıları almaya devam etsin. 0 girildiğinde
+ortalamayı ve medyanı gösterin. */ 
+
+using System;
 using System.Collections.Generic;
 
 public class Soru2
