@@ -1,0 +1,15 @@
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\bin\Debug\net8.0\1.Soru.exe
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\bin\Debug\net8.0\1.Soru.deps.json
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\bin\Debug\net8.0\1.Soru.runtimeconfig.json
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\bin\Debug\net8.0\1.Soru.dll
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\bin\Debug\net8.0\1.Soru.pdb
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.sourcelink.json
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.dll
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\refint\1.Soru.dll
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.pdb
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\1.Soru.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Masaüstü\Github Yeni\OOP_Weekly_Assignments\1.Soru\obj\Debug\net8.0\ref\1.Soru.dll
